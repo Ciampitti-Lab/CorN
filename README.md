@@ -12,6 +12,13 @@
 9. [Future Works](#future-works)
 10. [Acknowledgments](#acknowledgments)
 
+
+---
+
+## Contributors
+
+- Gustavo Nocera Santiago ([@GustavoSantiago113](https://github.com/GustavoSantiago113))
+
 ---
 
 ## Objective
